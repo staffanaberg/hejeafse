@@ -8,12 +8,16 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         // Fulkodar in liten ändring
+        System.out.print("Hello and welcome!");
+
         // Press Skift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
             // Press Skift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
+
+            //Nu skriver jag nya test och ny kod!!
         }
     }
 }
